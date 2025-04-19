@@ -1,0 +1,90 @@
+body {
+
+  background-color: #746c16;
+}
+
+h1 {
+  text-align: center;
+  border: 2px solid red;
+  padding: 10px;
+}
+
+.welcome {
+  color: purple;
+}
+
+.zoo {
+  color: green;
+}
+
+.section-title {
+  background-color: yellow;
+  font-weight: bold;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+.images img {
+  width: 50%;
+  margin: 5%;
+
+}
+
+.video {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.comment-title {
+  color: green;
+  font-weight: bold;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4285f4;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+.zz{
+    color: green;
+}
+.dd{
+    color: red;
+}
+.white{
+  background-color: white;
+}
